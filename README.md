@@ -1,3 +1,3 @@
-# mergeConflicts
+LOCAL
 
 Ceci est un test
