@@ -1,3 +1,3 @@
-# mergeConflicts
+REMOTE
 
 Ceci est un test
